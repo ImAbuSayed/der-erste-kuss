@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-erste-kuss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Der erste Kuss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-kuss/) |
+| **Get License** | [Commercial Licensing for Der erste Kuss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-kuss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ba79d76f5d8286c34c0100163fa29c7993a94ce86e7c8f842e27b7155a041908` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
