@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-erste-kuss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Der erste Kuss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-kuss/) |
+| **Get License** | [License this song: Der erste Kuss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-erste-kuss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Augen treffen sich im Club, die Spannung ist enorm
+> Dein Body ist ein Kunstwerk in der perfekten Form
+> Roter Lippenstift, dein Blick ist wie ein Schuss
+> Heute Nacht gehört nur uns, der allererste Kuss
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
